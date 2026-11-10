@@ -28,6 +28,8 @@ Project ini dibuat untuk memenuhi tugas UTS Pemrograman Web Genap 2025/2026.
 
 ### Dashboard
 ![Dashboard PlantLog](screenshots/dashboard.png)
+<img width="959" height="497" alt="image" src="https://github.com/user-attachments/assets/2468c7fc-0fab-471e-9408-ab615bc40eb9" />
+
 
 ## 👨‍💻 Identitas Pembuat
 - Nama: Liga Perkasa Dewa
