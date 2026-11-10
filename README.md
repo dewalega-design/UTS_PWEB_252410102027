@@ -30,6 +30,6 @@ Project ini dibuat untuk memenuhi tugas UTS Pemrograman Web Genap 2025/2026.
 ![Dashboard PlantLog](screenshots/dashboard.png)
 
 ## 👨‍💻 Identitas Pembuat
-- Nama: [Nama Lengkap]
+- Nama: Liga Perkasa Dewa
 - NIM: 252410102027
 - Mata Kuliah: Pemrograman Web
